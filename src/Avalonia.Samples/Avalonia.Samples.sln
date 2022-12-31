@@ -34,8 +34,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Folder", "Solution
 		..\..\README.adoc = ..\..\README.adoc
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB733E2B-D1DD-41C3-AC28-EFC0DF671D5E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Solution Items", "00.Solution Items", "{CB733E2B-D1DD-41C3-AC28-EFC0DF671D5E}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\README.adoc = ..\..\README.adoc
 		..\..\readme.md = ..\..\readme.md
 	EndProjectSection
 EndProject
