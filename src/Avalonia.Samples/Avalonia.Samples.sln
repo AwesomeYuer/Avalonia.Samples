@@ -23,15 +23,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Routing", "Routing", "{23EB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicViewLocatorSample", "Routing\BasicViewLocatorSample\BasicViewLocatorSample.csproj", "{84C1CD28-18C8-45E0-99BD-CE92BCFA8D15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationSample", "MVVM\ValidationSample\ValidationSample.csproj", "{53239038-E234-4DEF-B730-953B2F43B51E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationSample", "MVVM\ValidationSample\ValidationSample.csproj", "{53239038-E234-4DEF-B730-953B2F43B51E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Drawing", "Drawing", "{D02161B3-8242-4BF5-96E9-780465A5023B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleCity", "Drawing\BattleCity\BattleCity.csproj", "{17F36A0B-940E-49DB-B5B5-38C38E0947EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleCity", "Drawing\BattleCity\BattleCity.csproj", "{17F36A0B-940E-49DB-B5B5-38C38E0947EE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Folder", "Solution Folder", "{97333855-9EDC-45E0-B4DF-ED492C25FF62}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\README.adoc = ..\..\README.adoc
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB733E2B-D1DD-41C3-AC28-EFC0DF671D5E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\readme.md = ..\..\readme.md
 	EndProjectSection
 EndProject
 Global
